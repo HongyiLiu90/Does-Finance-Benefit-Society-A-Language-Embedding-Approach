@@ -10,7 +10,7 @@ This paper presents a novel measure of finance sentiment using language embeddin
 	2.	Predictive Power: A decline in finance sentiment often precedes financial crises by one year, suggesting that negative public perception may foreshadow economic downturns. Positive shifts in sentiment are correlated with higher future GDP and credit growth, underscoring finance’s potential societal benefits when public trust is strong.
 	3.	Correlations with Economic Indicators: Finance sentiment correlates positively with financial market participation and negatively with income inequality, reinforcing its economic relevance.
  
-[score95.pdf](https://github.com/user-attachments/files/17653624/score95.pdf)
+
 
  
 
